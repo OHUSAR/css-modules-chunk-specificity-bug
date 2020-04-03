@@ -1,0 +1,4 @@
+.test2 {
+    composes: test from '../index.module.css';
+    background-color: blue;
+}
