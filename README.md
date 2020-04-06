@@ -161,7 +161,7 @@ Which in our example the current applied css would be:
 
 ```
 
-This way the C element from example above will always have the green backgroundt. 
+This way the C element from example above will always have the green background. 
 
 ## This bug is related to:
 
