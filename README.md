@@ -5,6 +5,9 @@ Repository to demonstrate a bug in https://github.com/webpack-contrib/css-loader
 ## To run:
 
 ```
+git clone git@github.com:OHUSAR/css-modules-chunk-specificity-bug.git
+cd css-modules-chunk-specificity-bug
+
 npm install
 npm start
 
