@@ -100,7 +100,7 @@ The current applied css would be:
 
 When considering element using classnames from c.module.css,
 ```
-    <div class="test_localname test2_localname test3_localname" />
+    <div class="test_localname test3_localname" />
 ```
 the applied background color of the C element would be red instad of green. The reason for this is that the class `.test` is included later in the css hierarchy and therefore is used for element style.
 
